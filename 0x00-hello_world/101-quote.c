@@ -3,8 +3,8 @@
 /**
  * main - A c program that prints a line to the standard error
  * code by Tega
- * Return: 1
- */
+ * Return: 1 (success)
+*/
 int main(void)
 {
 	write(1, "and that place of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
