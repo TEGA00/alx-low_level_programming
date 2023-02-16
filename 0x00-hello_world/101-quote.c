@@ -2,7 +2,6 @@
 #include <unistd.h>
 /**
  * main - A c program that prints a line to the standard error
- * code by Tega
  * Return: 1
 */
 int main(void)
